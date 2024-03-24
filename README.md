@@ -1,10 +1,10 @@
-### Hi there this is M John Rajesh 👋 (http://github.com/MJRnathan/MJRnathan)
-- 🔭 I’m currently working as a Software Engineer (Angular 8+) at Cedar Infotech Pvt Ltd,.
-- 👯 I’m looking to collaborate on Full Stack Web Technologies, especially Mongo Express Angular / React Node. 
+### Hi there, this is M John Rajesh 👋 (http://github.com/MJRnathan/MJRnathan)
+- 🔭 I’m currently working as a Software Engineer (Angular 8-16+, React 17+) at Cedar Infotech Pvt Ltd,. since November 2022
+- 👯 I’m looking to collaborate on Full Stack Web Technologies, especially Mongo, Express, Angular / React / Next, Node. 
 - 🤔 I’m looking for help with exposition of the thinking process in exploring new frontiers of the MIND.
-- 💬 Ask me about anything!!!
-- 📫 How to reach me: john1rajesh@gmail.com #970 192 4269
-- 😄 Looking for a TEAM that believes in Synergy with a Disruptive mindset for the good of ALL.
+- 💬 I'm a good listener !!!
+- 📫 Reach me @ john1rajesh@gmail.com #7842 8959 72
+- 😄 Aspiring for a TEAM that believes in Synergy with a Disruptive mindset for the good of ALL.
 - ⚡ Fun fact: As a kid I wanted to be a Doctor, but was more interested in Astronomy than Numismatics.
 
 
